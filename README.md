@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hello World, I'm Kumar Mayank  
 
-<!--
-**KumarMayank07/KumarMayank07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE @ BIT Mesra  
+💻 Full Stack Developer | AI & ML Enthusiast  
+🚀 Building real-world applications using Web + AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- Passionate about **Full Stack Development & AI-powered applications**
+- Experience building **real-time systems, AI assistants, and ML models**
+- Strong interest in **backend architecture, APIs, and scalable systems**
+- Actively improving **DSA + System Design**
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Databases
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI / ML
+- RAG-based systems
+- CNN models
+- AI form & assistant tools
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 AI Health Assistant
+🔹 RAG-based medical assistant  
+🔹 Tech: TypeScript, AI, Vector Search  
+🔹 Focus: Real-world healthcare use case  
+
+### 📝 EasyFormAI
+🔹 AI-powered form builder  
+🔹 Smart automation & UX-focused design  
+
+### 💬 Real-Time Chat Application
+🔹 Live messaging with real-time updates  
+🔹 WebSocket-based architecture  
+
+### 🧠 Interview Mentor
+🔹 AI-driven interview preparation platform  
+🔹 Helps candidates practice & improve  
+
+### 👁 Diabetic Retinopathy Detection
+🔹 CNN-based medical image classification  
+🔹 ML + healthcare domain  
+
+---
+
+## 📈 GitHub Stats
+![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarMayank07&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarMayank07&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+- Advanced React & TypeScript
+- Backend system design
+- Scalable AI applications
+
+---
+
+## 🤝 Let’s Connect
+- GitHub: https://github.com/KumarMayank07
+- LinkedIn: *(add soon)*
