@@ -53,7 +53,7 @@
 🔹 AI-driven interview preparation platform  
 🔹 Helps candidates practice & improve  
 
-### 👁 [Diabetic Retinopathy Detection ](https://github.com/KumarMayank07/Diabetic Retinopathy Detection )
+### 👁 [Diabetic Retinopathy Detection ](https://github.com/KumarMayank07/diabetic-retinopathy-cnn)
 
 🔹 CNN-based medical image classification  
 🔹 ML + healthcare domain  
