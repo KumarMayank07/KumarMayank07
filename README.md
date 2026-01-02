@@ -36,24 +36,25 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 AI Health Assistant
+### 🏥 [AI Health Assistant](https://github.com/KumarMayank07/AI-Health-Assistant)
 🔹 RAG-based medical assistant  
 🔹 Tech: TypeScript, AI, Vector Search  
 🔹 Focus: Real-world healthcare use case  
 
-### 📝 EasyFormAI
+### 📝 [EasyFormAI](https://github.com/KumarMayank07/EasyFormAI)
 🔹 AI-powered form builder  
 🔹 Smart automation & UX-focused design  
 
-### 💬 Real-Time Chat Application
+### 💬 [Real-Time Chat Application](https://github.com/KumarMayank07/Real-Time-Chat-Application)
 🔹 Live messaging with real-time updates  
 🔹 WebSocket-based architecture  
 
-### 🧠 Interview Mentor
+### 🧠 [Interview Mentor](https://github.com/KumarMayank07/Interview_Mentor)
 🔹 AI-driven interview preparation platform  
 🔹 Helps candidates practice & improve  
 
-### 👁 Diabetic Retinopathy Detection
+### 👁 [Diabetic Retinopathy Detection ](https://github.com/KumarMayank07/Diabetic Retinopathy Detection )
+
 🔹 CNN-based medical image classification  
 🔹 ML + healthcare domain  
 
