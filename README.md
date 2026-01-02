@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kumar Mayank  
+# Hi, I'm Kumar Mayank 👨🏻‍💻
 
 🎓 B.Tech CSE @ BIT Mesra  
 💻 Full Stack Developer & AI/ML Enthusiast  
