@@ -59,11 +59,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=KumarMayank07&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KumarMayank07&layout=compact&theme=tokyonight)
-
----
 
 ## 🌱 Currently Learning
 - Advanced React & TypeScript
@@ -74,4 +69,4 @@
 
 ## 🤝 Let’s Connect
 - GitHub: https://github.com/KumarMayank07
-- LinkedIn: *(add soon)*
+- LinkedIn: https://www.linkedin.com/in/kumar-mayank-58a33b255/
