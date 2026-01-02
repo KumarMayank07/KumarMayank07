@@ -1,16 +1,16 @@
-# 👋 Hello World, I'm Kumar Mayank  
+# 👋 Hi, I'm Kumar Mayank  
 
 🎓 B.Tech CSE @ BIT Mesra  
-💻 Full Stack Developer | AI & ML Enthusiast  
-🚀 Building real-world applications using Web + AI  
+💻 Full Stack Developer & AI/ML Enthusiast  
+🚀 Focused on real-world Web & AI applications  
 
 ---
 
 ## 🧠 About Me
-- Passionate about **Full Stack Development & AI-powered applications**
-- Experience building **real-time systems, AI assistants, and ML models**
-- Strong interest in **backend architecture, APIs, and scalable systems**
-- Actively improving **DSA + System Design**
+- Passionate about Full Stack Development and AI-powered applications  
+- Experience building real-time systems, AI assistants, and ML models  
+- Strong interest in backend architecture, APIs, and scalable systems  
+- Actively improving DSA and System Design fundamentals  
 
 ---
 
