@@ -41,13 +41,13 @@
 🔹 Tech: TypeScript, AI, Vector Search  
 🔹 Focus: Real-world healthcare use case  
 
+### 💬 [Nexus-Real-Time-Messaging-Platform](https://github.com/KumarMayank07/Nexus-Real-Time-Messaging-Platform)
+🔹 Live messaging with real-time updates  
+🔹 WebSocket-based architecture  
+
 ### 📝 [EasyFormAI](https://github.com/KumarMayank07/EasyFormAI)
 🔹 AI-powered form builder  
 🔹 Smart automation & UX-focused design  
-
-### 💬 [Real-Time Chat Application](https://github.com/KumarMayank07/Real-Time-Chat-Application)
-🔹 Live messaging with real-time updates  
-🔹 WebSocket-based architecture  
 
 ### 🧠 [Interview Mentor](https://github.com/KumarMayank07/Interview_Mentor)
 🔹 AI-driven interview preparation platform  
